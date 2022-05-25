@@ -1,4 +1,5 @@
 const containerEmpty = [];
+//APPUNTI
 //sommma = somma + Input
 //somma < 50
 let somma = 0;
