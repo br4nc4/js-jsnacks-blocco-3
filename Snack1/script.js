@@ -14,3 +14,14 @@ do{
 } while (somma < 50)
 
 alert(somma)
+
+/* //CICLO while
+while (somma < 50){
+    const input = parseInt(prompt("inserisci un numero"));
+    somma = somma + input;
+    containerEmpty.push(input);
+    if (somma > 50){
+        alert("la somma supera il valore di 50");
+    }  
+} 
+alert(somma) */
